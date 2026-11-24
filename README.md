@@ -3,6 +3,8 @@
 A hands-on course that goes from math refreshers to complete end-to-end ML projects. Neural networks are
 covered in a separate course.
 
+Follow up with : https://github.com/suraj9321/deep-learning-cv-nlp-llm-zero-to-hero
+
 ## Index
 - [Phase 0: Tools](#phase-0-tools)
 - [Phase 1: Math refreshers](#phase-1-math-refreshers)
